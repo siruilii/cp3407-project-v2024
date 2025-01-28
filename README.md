@@ -23,7 +23,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 4. Name 4
 
 
-# Assignment-1: project planning BEFORE iteration-1, (see chapters 1-3)
+# Project planning BEFORE iteration-1, (see chapters 1-3)
 Checklist/TODOs: 
 * Update the following during each week prac session
 * github entry timestamp is BEFORE the iteration-1
@@ -34,8 +34,6 @@ Checklist/TODOs:
 
 Total: YY days
 
-
-# Assignment-2: Iterations
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
 
